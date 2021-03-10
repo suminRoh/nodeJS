@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suminRoh/nodeJS.git"
+  },
+  "keywords": [
+    "[nodejs",
+    "javascript",
+    "nodeJS",
+    "JS]"
+  ],
+  "author": "suminRoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suminRoh/nodeJS/issues"
+  },
+  "homepage": "https://github.com/suminRoh/nodeJS#readme",
+  "dependencies": {
+    "sanitize-html": "^2.3.2"
+  }
+}
